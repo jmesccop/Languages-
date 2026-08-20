@@ -1,0 +1,136 @@
+# Reglas fonológicas y de distribución del Potugués brasileño (PB), Según TCS.
+
+> Fuente de referencia de símbolos : fuente symb .
+> Advertencia: Los ejemplos no muestran necesáriamente la aplicación de las distribuciones y reglas en conjunto con otras.
+
+## Consonantes.
+
+### 1. Regla de Dentalización en el Dialecto Paulista
+    
+> En la descripción fonética de la lengua, es indispensable distinguir entre la articulación alveolar y la dental. Mientras que el dialecto mineiro o el carioca tienden a favorecer una articulación puramente alveolar para las consonantes coronales, el dialecto paulista presenta una regla muy consistente de dentalización de las consonantes alveolares.
+
+- Regla: Las consonantes coronales /t, d, s, z, n, l/ se producen con el ápice o la lámina de la lengua tocando los dientes incisivos superiores como articulador pasivo.
+- Formalismo: Este proceso de variación dialectal (no condicionado por el contexto, sino por el idioleto o dialecto geográfico) se marca fonéticamente con el diacrítico de dentalización [ ̪] colocado debajo del símbolo correspondiente. Así, en São Paulo, las realizaciones fonéticas de estas consonantes se representan como:
+    1. [t̪] (oclusiva dental desvozeada), como en tapa ['t̪apa].
+    2. [d̪] (oclusiva dental vozeada), como en data ['d̪at̪a].
+    3. [s̪] (fricativa dental desvozeada), como en sala ['s̪al̪a].
+    4. [z̪] (fricativa dental vozeada), como en casa ['kaz̪a].
+    5. [n̪] (nasal dental vozeada), como en nada ['n̪ad̪a].
+    6. [l̪] (lateral dental vozeada), como en lata ['l̪at̪a].
+
+### 2. Regla de Palatalización de las Oclusivas Alveolares /t/ y /d/
+
+> Este es uno de los procesos fonológicos más extendidos en la región del Sudeste brasileño, afectando de manera uniforme tanto al habla típica de Río de Janeiro como a la de São Paulo.
+
+- Regla: Las oclusivas alveolares /t/ y /d/ sufren un proceso de palatalización cuando se encuentran inmediatamente antes de la vocal alta anterior /i/ (ya sea oral o nasal, o bien su variante reducida [ɪ] o [i] en posición átona final, que ortográficamente suele representarse con la letra "e"). Bajo esta condición, las oclusivas se transforman en africadas alveopalatales.
+- Formalismo (Proceso):
+    - /t/ → [tʃ] / __ [i] (y sus variantes [ɪ, ĩ])
+    - /d/ → [dʒ] / __ [i] (y sus variantes [ɪ, ĩ])
+- Distribución:
+    - En palabras como dia o abade, la oclusiva /d/ se manifiesta como la africada alveopalatal vozeada [dʒ]. Esto resulta en las transcripciones fonéticas ['dʒia] y [aba'dʒi].
+    - En palabras como tia o bate, la oclusiva /t/ se manifiesta como la africada alveopalatal desvozeada [tʃ], transcribiéndose como ['tʃia] y ['batʃi].
+    - En los contextos donde no les sigue la vocal /i/ (por ejemplo, antes de [a, e, o, u] o consonantes como en tapa o prato), se mantienen como oclusivas simples [t] y [d] (o sus variantes paulistas dentalizadas [t̪] y [d̪]).
+
+### 3. Regla de Distribución de las Sibilantes en Coda (Arquifonema /S/)
+
+> En posición final de sílaba (coda silábica), las sibilantes fricativas /s, z, ʃ, ʒ/ experimentan una pérdida de su contraste fonémico (neutralización), lo que representamos fonémicamente a través del arquifonema /S/. Las realizaciones de este arquifonema en final de sílaba diferencian drásticamente los acentos de Río de Janeiro y São Paulo:
+
+- Río de Janeiro (Carioca): El arquifonema /S/ se realiza siempre como una fricativa alveopalatal. Su vozeamiento está condicionado por asimilación del segmento siguiente:
+    - Se manifiesta como la fricativa alveopalatal desvozeada [ʃ] si va seguido de una consonante desvozeada o ante pausa de fin de palabra. Ejemplo: pasta ['paʃtə] o paz ['paʃ].
+    - Se manifiesta como la fricativa alveopalatal vozeada [ʒ] si va seguido de una consonante vozeada. Ejemplo: rasga ['ʁaʒgə] (en Río de Janeiro).
+- São Paulo (Paulista): El arquifonema /S/ se realiza característicamente como una fricativa alveolar (o su variante dentalizada).
+    - Se manifiesta como la fricativa alveolar desvozeada [s] (o [s̪]) si va seguido de una consonante desvozeada o en fin de palabra ante pausa. Ejemplo: pasta ['pastə] o paz ['pas].
+    - Se manifiesta como la fricativa alveolar vozeada [z] (o [z̪]) si le sigue una consonante vozeada por asimilación regresiva de sonoridad. Ejemplo: rasga ['razgə].
+
+### 4. Regla de Distribución y Alofonía de las Consonantes Róticas
+
+> El portugués brasileño posee un sistema rótico binario en posición intervocálica: un "r flaco" (fonema /ɾ/) que se realiza como tepe alveolar vozeado [ɾ] (como en arara [a'ɾaɾa]) y un "R fuerte" (fonema /r/) que ocurre en inicio de palabra o intervocálica geminada (como en carro). En posición final de sílaba, esta oposición se neutraliza en el arquifonema /R/.
+
+- Río de Janeiro (Carioca):
+    - Tanto el "R fuerte" como el arquifonema /R/ se realizan como fricativas velares.
+    - El "R fuerte" se manifiesta típicamente como la fricativa velar desvozeada [x] (p. ej., rata ['xat̪a] o marra ['maxa]).
+    - El arquifonema /R/ en final de sílaba asimila el vozeamiento de la consonante adyacente: se realiza como la fricativa velar desvozeada [x] antes de consonante desvozeada o en final de palabra (p. ej., carta ['kaxta] o mar ['max]), y como la fricativa velar vozeada [ɣ] antes de una consonante vozeada (p. ej., carga ['kaɣga]).
+- São Paulo (Paulista / Caipira):
+    - El "R fuerte" en inicio de palabra o intervocálico se manifiesta como la vibrante alveolar vozeada [r] (p. ej., rata ['rat̪a] o marra ['mara]).
+    - El arquifonema /R/ en final de sílaba presenta una de las marcas dialectales más famosas de Brasil: en el dialecto caipira (típico del interior del estado de São Paulo), se realiza como la aproximante retroflexa alveolar vozeada [ɻ] (p. ej., mar ['maɻ], carta ['kaɻt̪a] o carga ['kaɻga]).
+
+### 5. Regla de Vocalización de la Lateral Alveolar /l/ en Final de Sílaba
+
+> En posición de coda silábica (como en sal o salta), el comportamiento de la lateral alveolar vozeada /l/ marca una regla fonológica crucial que es compartida por la gran mayoría de los dialectos brasileños, incluidos los de São Paulo y Río de Janeiro.
+
+- Regla (Vocalización): La consonante lateral /l/ en final de sílaba experimenta un proceso de vocalización, abandonando su articulación lateral y transformándose en un segmento con la calidad vocálica de u.
+- Formalismo: /l/ → [w] (o el glide posterior frouxo [ʊ̯]) / __ $ (límite de sílaba).
+- Distribución:
+    - En palabras como sal y salta, donde otros dialectos (como el portugués europeo o del sur de Brasil) articulan una lateral velarizada [ɫ] (['saɫ] y ['saɫt̪a]), en los acentos de São Paulo y Río de Janeiro se articula consistentemente el glide posterior, dando lugar a las transcripciones ['saw] y ['sawt̪a]. El símbolo [w] se incorpora aquí a la tabla consonántica por ocupar estructuralmente una posición de coda consonántica.
+
+### 6. Reglas de Asimilación del Arquifonema Nasal /N/ y Realización de /ɲ/
+
+> En posición posvocálica (coda), las consonantes nasales se neutralizan bajo el arquifonema nasal /N/. Su realización fonética consiste en la nasalización de la vocal precedente, seguida o no de un elemento de transición nasal (homorgánico) que asimila el punto de articulación de la consonante oclusiva o fricativa que le sigue:
+
+- Distribución del Arquifonema /N/:
+    - /VN/ → [Ṽm] / __ Consonante oclusiva bilabial (p. ej., campo → ['kãmpu]).
+    - /VN/ → [Ṽɱ] / __ Consonante fricativa labiodental (p. ej., enviar → [ĩɱvi'ax]).
+    - /VN/ → [Ṽn̪] / __ Consonante oclusiva dental (p. ej., tanto → ['tãnt̪u]).
+    - /VN/ → [Ṽn̠] / __ Consonante africada palatal (p. ej., anjo → ['ãndʒu]).
+    - /VN/ → [Ṽŋ] / __ Consonante oclusiva velar (p. ej., manga → ['mãŋgə]).
+    - /VN/ → [Ṽ] (nasalización de la vocal sola) en los demás contextos, típicamente al final de palabra sin consonante adyacente (p. ej., lã → ['lã]).
+- Realización de la Nasal Palatal (dígrafo "nh"):
+    - El fonema nasal palatal /ɲ/ (que ortográficamente se escribe "nh", como en banha) se realiza de forma mayoritaria en Río de Janeiro y São Paulo como un glide palatal nasalizado [ỹ]. En estos dialectos, la lengua no llega a tocar el cielo de la boca (evitando la obstrucción oclusiva palatal de [ɲ]), por lo que banha se transcribe típicamente como ['bãỹa].
+
+## Vocales.
+
+### 7. Regla de Reducción Vocálica en Posición Postónica Final
+
+> En posición átona final (al final de una palabra y sin acento tónico), las vocales orales /e, a, o/ (que morfológicamente corresponden al sufijo de género en sustantivos y adjetivos, o a la vocal temática en verbos) experimentan un proceso sistemático de reducción en la gran mayoría de los dialectos de Brasil, afectando de manera uniforme tanto a São Paulo como a Río de Janeiro. Estas vocales se transforman en las correspondientes vocales reducidas o frouxas [ɪ, ə, ʊ].
+
+- Formalización:
+    - /e/→[ɪ] / ___# [-tónico]
+    - /a/→[ə] / ___# [-tónico]
+    - /o/→[ʊ] / ___# [-tónico]
+- Distribución:
+    - Este proceso explica por qué palabras escritas ortográficamente con "e, a, o" al final se producen con las variantes reducidas: jure se realiza fonéticamente como ['ʒuɾɪ], gota como ['gotə], y mato como ['matʊ].
+    - Aunque en algunos pocos dialectos (o en registros extremadamente formales) se pueden conservar las vocales plenas [e, a, o], la reducción a [ɪ, ə, ʊ] es la norma generalizada en las variantes de Río de Janeiro y São Paulo.
+
+### 8. Regla de Reducción de la Vocal Central /a/ Pretónica en el Dialecto Carioca
+
+> En posición pretónica, la vocal baja central /a/ suele realizarse plenamente como la vocal oral baja [a] en la mayor parte del territorio brasileño. Sin embargo, el dialecto de Río de Janeiro (carioca) presenta una regla de reducción característica donde la /a/ pretónica se realiza como la vocal central reducida (schwa) [ə].
+
+- Formalización:
+    - /a/→[ə] / ___C1​...V[+tónica]​ (Dialecto Carioca)
+- Distribución:
+    - En Río de Janeiro, una palabra como abacaxi se pronuncia típicamente como [əbəkə'ʃi].
+    - En contraste, en el dialecto de São Paulo (paulista), la /a/ pretónica se conserva generalmente como la vocal plena [a] (produciendo [abaka'ʃi] o [abəkə'ʃi] únicamente si está influenciada por una consonante nasal adyacente, como en camareira [kəmə'ɾeɪ̯ɾə]).
+
+### 9. Procesos de Nasalización y Nasalidad ante Consonante Nasal (São Paulo vs. Río de Janeiro)
+
+> Es fundamental distinguir teóricamente entre la nasalización (un proceso obligatorio en el que la vocal es inherentemente nasal en cualquier dialecto, como en lã ['lã] o santo ['sãtʊ]) y la nasalidad (un proceso opcional de asimilación dialectal ante consonante nasal intervocálica, como en cama o fome).
+
+- Río de Janeiro (Carioca): La asimilación de la nasalidad es sumamente fuerte y obligatoria. Cualquier vocal tónica seguida de las consonantes nasales /m, n, ɲ/ se realiza como nasalizada.
+    - Formalización:
+        - /V/→[Ṽ] / ___C[nasal]​V[+tónica]​
+    - Distribución: Palabras como cama se realizan como ['kãmə], fino como ['fĩnʊ], y fome como ['fõmɪ].
+- São Paulo (Paulista): Existe una variación dialectal muy marcada en el estado de São Paulo. Mientras que muchos hablantes de la capital asimilan la nasalidad, las variantes del interior (incluyendo el dialecto caipira) bloquean esta regla de asimilación, manteniendo la vocal tónica completamente oral antes de la consonante nasal.
+    - Formalización:
+        - /V/→[V] / ___C[nasal]​V[+tónica]​ (Variante Paulista seleccionada)
+    - Distribución: Para estos hablantes paulistas interior, palabras como cama se realizan con vocal oral plena ['kamə] y fome se produce con la vocal media- baixa oral abierta ['fɔmɪ].
+
+### 10. Regla de Reducción (Monoptongación) de los Ditongos Decrescentes [eɪ̯] y [oʊ̯]
+
+> En el habla fluida e informal de Río de Janeiro y São Paulo, los ditongos decrescentes orales [eɪ̯] y [oʊ̯] experimentan opcionalmente una regla de reducción (monoptongación) en la que el glide ([ɪ̯] o [ʊ̯]) se elide. Este proceso está condicionado al contexto interno de palabra (seguido de consonante) y se bloquea en posición final absoluta.
+
+- Formalización:
+    - $$\text{/e/ + /i/} \rightarrow [\text{eɪ̯}] \rightarrow [\text{e}] \ / \ \_\_\_ C$$
+    - $$\text{/o/ + /u/} \rightarrow [\text{oʊ̯}] \rightarrow [\text{o}] \ / \ \_\_\_ C$$
+- Distribución:
+    - En palabras como caixa y feira, el ditongo se reduce a un monotongo, realizándose típicamente en el habla coloquial como ['kaʃə] y ['feɾə]. Lo mismo ocurre con couro, que se reduce de ['koʊ̯ɾʊ] a ['koɾʊ].
+    - Sin embargo, la reducción está estrictamente prohibida en posición final de palabra (p. ej., sei se realiza invariablemente como ['seɪ̯] y nunca como *['se], al igual que Moscou se mantiene como [mos'koʊ̯]).
+
+### 11. Análisis y Descomposición de los "Tritongos" (Consonantes Complejas)
+
+> Estructuralmente, las secuencias que la gramática tradicional denomina "tritongos" (como en quais o enxágue) no se interpretan fonológicamente en mi modelo como una combinación de dos glides y una vocal en una sola sílaba (*G- V- G). Estas secuencias se analizan formalmente como una consonante compleja (oclusiva velar labializada /kʷ/ o /gʷ/) seguida de un ditongo decrescente ordinario.
+
+- Formalización estructural:
+    - /k/ + /u/ + /a/ + /i/ + /S/ →  /kʷaiS/ → [kʷaɪ̯s] (São Paulo) o  [kʷaɪ̯ʃ] (Río de Janeiro)
+- Distribución:
+    - Al articular concomitantemente la oclusiva velar con el redondeo de los labios (labialización), la posición del primer "glide" es absorbida estructuralmente por la consonante.
+    - Esto explica por qué palabras como quase se transcriben fonéticamente como ['kʷazɪ] y quais como ['kʷaɪ̯s] (o ['kʷaɪ̯ʃ] bajo el acento carioca), limitando los constituyentes silábicos al patrón estructural estándar de nuestra lengua sin necesidad de postular una categoría de triptongo independiente.
