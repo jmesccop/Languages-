@@ -1,0 +1,58 @@
+# Brazilian portuguese phones by Thais Cristofáro.
+
+> This is a symbol list used for phonetic transcriptions. Based on Fonética e fonología do portugues brasileiro by Cristoforo (source PH1).
+
+## A. Consonants
+
+| Punto de articulación \ Modo de articulación | Voceamento  | Bilabial | Lábio-dental | Alveolar | Dental ou alveolar | Alveopalatal | Palatal | Velar | Glotal |
+| ---------------------- | ----------- | -------- | ------------ | -------- | ------------------ | ------------ | ------- | ----- | ------ |
+| Oclusiva               | não-vozeada | p        | —            | t        | —                  | —            | —       | k, kʷ | —      |
+| Oclusiva               | vozeada     | b        | —            | d        | —                  | —            | —       | g, gʷ | —      |
+| Fricativa              | não-vozeada | —        | f            | s        | —                  | ʃ            | —       | x     | h      |
+| Fricativa              | vozeada     | —        | v            | z        | —                  | ʒ            | —       | ɣ     | ɦ      |
+| Africada               | não-vozeada | —        | —            | —        | —                  | tʃ           | —       | —     | —      |
+| Africada               | vozeada     | —        | —            | —        | —                  | dʒ           | —       | —     | —      |
+| Nasal                  | vozeada     | m        | —            | n        | —                  | —            | ɲ, ỹ    | —     | —      |
+| Tepe                   | vozeada     | —        | —            | ɾ        | —                  | —            | —       | —     | —      |
+| Vibrante               | vozeada     | —        | —            | r       | —                  | —            | —       | —     | —      |
+| Aproximante retroflexa | vozeada     | —        | —            | ɻ        | —                  | —            | —       | —     | —      |
+| Lateral                | vozeada     | —        | —            | l, ɫ, w  | —                  | —            | ʎ, lʲ, y | —     | —      |
+
+## B. Vowels
+
+| Altura      | Anterior — oral | Anterior — reduzida | Anterior — nasal | Central — oral | Central — reduzida | Central — nasal | Posterior — nasal | Posterior — reduzida | Posterior — oral |
+| ----------- | --------------- | ------------------- | ---------------- | -------------- | ------------------ | --------------- | ----------------- | -------------------- | ---------------- |
+| Alta        | i               | ɪ                   | ĩ                | —              | —                  | —               | ũ                 | ʊ                    | u                |
+| Média-alta  | e               | —                   | ẽ                | —              | —                  | —               | õ                 | —                    | o                |
+| Média-baixa | ɛ               | —                   | —                | —              | —                  | —               | —                 | —                    | ɔ                |
+| Baixa       | —               | —                   | —                | a              | ə                  | ã               | —                 | —                    | —                |
+
+> There are only two glides : ɪ̯ and ʊ̯
+
+| Ditongos decrescentes orais | 1     | 2     | 3     | 4     | 5     | 6     |
+| ------------------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Glide palatal**   | [aɪ̯] | [eɪ̯] | [ɛɪ̯] | [oɪ̯] | [ɔɪ̯] | [uɪ̯] |
+| **Glide posterior** | [aʊ̯] | [eʊ̯] | [ɛʊ̯] | [oʊ̯] | [iʊ̯] | —     |
+
+| Ditongos decrescentes nasais | 1     | 2     | 3     | 4     |
+| ------------------- | ----- | ----- | ----- | ----- |
+| **Glide palatal**   | [ãɪ̯] | [ẽɪ̯] | [õɪ̯] | [ũɪ̯] |
+| **Glide posterior** | [ãʊ̯] | —     | —     | —     |
+
+| Ditongos crescentes orais | 1     | 2     | 3     | 4     |
+| ------------------- | ----- | ----- | ----- | ----- |
+| **Glide palatal**   | [ɪ̯ə] | [ɪ̯ɪ] | [ɪ̯ʊ] | [ɪ̯o] |
+| **Glide posterior** | [ʊ̯ə] | [ʊ̯ɪ] | [ʊ̯u] | —     |
+
+## C. Aditional considerations : Arquifonema /N/
+
+| Contexto (*)                                | Realización                                      |
+| ------------------------------------------ | ------------------------------------------------ |
+| `/VN/` $\rightarrow$ `[Ṽm]` / __ C_oclusiva bilabial     | nasal bilabial                                   |
+| `/VN/` $\rightarrow$ `[Ṽɱ]` / __ C_fricativa labiodental | nasal labiodental                                |
+| `/VN/` $\rightarrow$ `[Ṽn̪]` / __ C_oclusiva dental      | nasal dental                                     |
+| `/VN/` $\rightarrow$ `[Ṽn̠]` / __ C_africada palatal      | nasal palatal                                    |
+| `/VN/` $\rightarrow$ `[Ṽŋ]` / __ C_oclusiva velar        | nasal velar                                      |
+| `/VN/` $\rightarrow$ `[Ṽ]` / n.o.l.                      | nasalización de la vocal, en los demás contextos |
+
+> (*) You should write it with superscripts and ipa diacritics in unicode. It's possible.
