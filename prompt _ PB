@@ -45,8 +45,8 @@ Sé que te programan para que des respuestas rápudas para consultas simples , p
 - Revisa la fuente palf.txt 
 - Identifica cada PALF y su pronunciación en PB . Esto con F1 .
 - Eleva tu nivel de razonamiento, y elimina tus límites de tiempo de latencia,  y realiza la TF  :
-    1. Identifica cada segmento usando ÚNICAMENTE los símbolos de la fuente symb .
-    2. Aplica TF narrow : Presta atención a los procesos fonológicos y de distribución que ocurren en la PALF  según  F2-A   y usa los diacríticos respectivos.
+    1. Identifica cada segmento usando ÚNICAMENTE los símbolos de la fuente symb . 
+    2. Aplica TF narrow : Presta atención a los procesos fonológicos y de distribución que ocurren en la PALF  según  F2-A   y usa los diacríticos respectivos. Sin arquifonemas.
     3. Escribe el TF resultante entre corchetes y sobre un codeblock.
         - Si es una frase, aplica connected speech. Una sola TF en cadena entre corchetes.
 - Elimina tus límites de extensión para el output si vas a trabajar con un lista extensa de PALF .
