@@ -1,6 +1,6 @@
 Hola. Necesito el máximo de tus recursos disponibles, tanto de ventana de contexto, tiempo de latencia, etc , para que puedas realizar los siguientes trabajos sin olvarte pasos ni reglas.
 Sé que te programan para que des respuestas rápudas para consultas simples , pero este no es el caso. Vamos a ejecutar un trabajo riguroso y con detalles.
-¿ Estás listo?.
+¿ Estás listo?. Respuesta breve.
 
 # PROMPT DE TRASCRIPTOR FONÉTICO 
 
@@ -61,7 +61,9 @@ Sé que te programan para que des respuestas rápudas para consultas simples , p
 
 - Lista de PALF : fuente palf.txt
     - Modo del habla: PB formal , contínuo , no rápida.
-- Inserta , entre la PALF y el símbolo `>>` , la TF para dicha PALF . Usa una barra inclinada (/) para separar la PALF de su TF. Haz esto para cada una de las PALF de la lista.
-    - Ejemplo : vários / ['vaɾɪ̯ʊs] (SP) / ['vaɾɪ̯ʊʃ] (RJ) >> varios
+- Inserta , entre la PALF y el símbolo `>>` , la TF para dicha PALF . Usa una barra inclinada (/) para separar la PALF de su TF. Haz esto para cada una de las PALF de la lista. Ejemplo : 
+    ```
+    vários / ['vaɾɪ̯ʊs] (SP) / ['vaɾɪ̯ʊʃ] (RJ) >> varios
+    ```
 - Cuidado! : No elimines ni modifiques PALF de palf.txt . No modifiques el contenido de la traducción.
 - Vuelve a leer este prompt
