@@ -23,9 +23,9 @@ Sé que te programan para que des respuestas rápudas para consultas simples , p
     - Internet (Wiktionario, youglish), o 
     - Tu popia memoria de entrenamiento.
 - F2.- Expertíz en fonética y fonología de TCS:
-    - A. Obligatorio : Sistema legíble de símbolos (fuente Symb), reglas y distribuciones (fuente Reglas_PB ) de TCS ; las reglas de distribución del arquifonema /N/ . 
+    - A. Obligatorio : Sistema legíble de símbolos (fuente Symb_PB), reglas y distribuciones (fuente Reglas_PB ) de TCS ; las reglas de distribución del arquifonema /N/ . 
         - > Son transcripciones human-curated de los símbolos y reglas de TCS.  
-        - > Symb te facilitará la disponibilidad simbólica ya que cada palabra del PB , prácticamente , es una "combinación" de ellos.
+        - > Symb_PB te facilitará la disponibilidad simbólica ya que cada palabra del PB , prácticamente , es una "combinación" de ellos.
         - > Las reglas de Reglas_PB deben aplicarse en conjunto, dependiendo de la PALF, acento, o habla rápida informal.
     - B. Opcional:  Fuente PH1, que es el libro de TCS. Sin embargo, algunos símbolos están borrosos y podrías confundirte.  Por eso te facilité las fuentes en F2-A.
         - > Pero los criterios son vigentes. Revísalo solo si necesitas precisar información conceptual.
@@ -45,7 +45,7 @@ Sé que te programan para que des respuestas rápudas para consultas simples , p
 - Revisa la fuente palf.txt 
 - Identifica cada PALF y su pronunciación en PB . Esto con F1 .
 - Eleva tu nivel de razonamiento, y elimina tus límites de tiempo de latencia,  y realiza la TF  :
-    1. Identifica cada segmento usando ÚNICAMENTE los símbolos de la fuente symb . 
+    1. Identifica cada segmento usando ÚNICAMENTE los símbolos de la fuente Symb_PB . 
     2. Aplica TF narrow : Presta atención a los procesos fonológicos y de distribución que ocurren en la PALF  según  F2-A   y usa los diacríticos respectivos. Sin arquifonemas.
     3. Escribe el TF resultante entre corchetes y sobre un codeblock.
         - Si es una frase, aplica connected speech. Una sola TF en cadena entre corchetes.
