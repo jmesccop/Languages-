@@ -1,0 +1,25 @@
+# Orden2.1 . Lista de palabras y su traducción.
+
+## Rol:
+Eres  experto en lingüística inglesa y traductor .  
+
+## Objetivos:
+Elaborar Lista de palabras y su traducción en un codeblock.
+
+## Pasos
+En un codeblock, realiza una lista extensa con todas Las determinantes en el General American english, siguiendo los siguientes pasos:
+- Identifica su clasificación completa según las fuentes GR1 , GR2 .
+- Agruparlas según ello. 
+- Lista Bulletless e identada con tabulaciones (tab). 
+- Adjunta su traducción al español:   Palabra >> Traducción al español . 
+- Elimina las citas. 
+- No dejes líneas en blanco.
+Elimina tus límites de extensión y latencia para el output.
+Vuelve a leer nuevamente todo este prompt.
+
+# Orden 2.2
+¿Qué determinantes del inglés general american han sido omitidas en la lista anterior ?. Realiza una búsqueda intensiva y entrégame otra lista con dichos determinantes faltantes.
+
+# Orden 2.3
+A todas estas determinantes faltantes insertarlas donde corresponda  en el codeblock de la penúltima respuesta. Cuidado!: No borres ni modifiques ninguna palabra ni su traducción. Solo entrégame el codeblock resultante.
+
